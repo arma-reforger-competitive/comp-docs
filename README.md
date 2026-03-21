@@ -14,10 +14,13 @@ It is intended as a reference for:
 ## 📂 Structure
 
 ``` text
-/rulesets → Competitive mode rules
-/philosophy → Competitive design principles
+/rulesets     → Competitive mode rules (player/tournament-facing)
+/systems      → System design docs (roles, squads, layers, admin protocol)
+/specs        → Developer technical specs (state machines, data models, events)
+/terminology  → Definitions of terms and abbreviations
+/philosophy   → Competitive design principles
+/tournament   → Tournament operations, formats, and procedures
 /server-setup → Server installation & configuration guides
-/terminology → Definitions of terms and abbreviations
 ```
 
 ---
